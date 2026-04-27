@@ -37,7 +37,7 @@ Q2 How does shooting lethality vary by location type, borough, and time and wher
 
 ### YOUTH
   
-This classifies each victim into an age group. If the victim's age group is <18 or 18–24, it returns "Youth (Under 25)"; otherwise, it returns "Adult (25+)." This was the foundation for Question 2's youth vs. adult comparison.
+This classifies each victim into an age group. If the victim's age group is <18 or 18–24, it returns "Youth (Under 25)"; otherwise, it returns "Adult (25+)." Helped to narrow the age group variable further. 
 
 <img width="800" height="500" alt="Screenshot 2026-04-27 at 11 57 45 AM" src="https://github.com/user-attachments/assets/8db61882-ea09-410e-8a8b-daf6d3d42b29" />
 
