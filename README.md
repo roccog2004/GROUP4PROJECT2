@@ -12,19 +12,6 @@
 ## Data Set
 The dataset we selected is based on 2025 NYPD shooting incident records. We chose this dataset because of the wide range of insights that can be extracted from it. It provides valuable information not only for public safety officials looking to identify patterns and improve response strategies, but also for everyday individuals who want to better understand high-risk areas within New York City. In terms of data types, the dataset includes several dimensions that describe the incidents, such as borough, victim age group, victim race, and victim sex. These categorical variables help us categorize and better understand the context of each incident. On the other hand, the dataset also contains measures, such as latitude and longitude, which allow us to quantitatively map and analyze where incidents are occurring. While there are many discrete categories we could have explored, we chose to focus on visualizing patterns related to time of day, as well as grouping variables like age and victim demographics. This approach allows us to better identify trends and potential correlations within the data.
 
-## Question 1
-
-## Visualization 1
-## Question 2 
-
-## Manipulations
-
-## Visualization 2
-
-## Manipulations
-
-## Packaged Workbook
---->
 Q1 How do youth shooting victimization patterns differ from adult patterns across time of day, day of week, and school calendar period?  
 
 Q2 How does shooting lethality vary by location type, borough, and time and where do high volume, high-fatality hotspots overlap?
