@@ -10,14 +10,23 @@
  4. Kory Cote [@Korycote](https://github.com/Korycote/Hotel-MIST4610)
 
 ## Data Set
+Where was it obtained, what are the dimensions of it (rows and columns), what are the various
+columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
+understand the dataset.  (Reduce what we have rn into bullet points of all the rows and columns) 
+
 The dataset we selected is based on 2025 NYPD shooting incident records. We chose this dataset because of the wide range of insights that can be extracted from it. It provides valuable information not only for public safety officials looking to identify patterns and improve response strategies, but also for everyday individuals who want to better understand high-risk areas within New York City. In terms of data types, the dataset includes several dimensions that describe the incidents, such as borough, victim age group, victim race, and victim sex. These categorical variables help us categorize and better understand the context of each incident. On the other hand, the dataset also contains measures, such as latitude and longitude, which allow us to quantitatively map and analyze where incidents are occurring. While there are many discrete categories we could have explored, we chose to focus on visualizing patterns related to time of day, as well as grouping variables like age and victim demographics. This approach allows us to better identify trends and potential correlations within the data.
+
+## Questions 
+What are the questions, and why each question is important. Importance can be evaluated and
+conveyed in a variety of ways including, social, economic, cultural and other factors. Also
+indicate how they are tied to the data set or sets being used. (Add the why) 
 
 Q1 How do youth shooting victimization patterns differ from adult patterns across time of day, day of week, and school calendar period?  
 
 Q2 How does shooting lethality vary by location type, borough, and time and where do high volume, high-fatality hotspots overlap?
 
-## Data Cleaning
-- Replaced null values across all perpetrator and victim variables with "Unknown" by changing the alias of the "NULL" variable 
+## Manipulations 
+- Replaced null values across all perpetrator and victim variables with "UNKNOWN" by changing the alias of the "NULL" variable 
 - Filtered out records without location data by using the fiter tab
 - Changed Borough to geographic role for mapping
 ## Calculated Fields
