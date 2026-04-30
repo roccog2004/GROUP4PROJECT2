@@ -120,7 +120,8 @@ The quadrant chart breaks locations into four main profiles:
 - Common but survivable (lower-right): Street shootings for 18–24 victims and 25-44 are the highlights of this quadrant, likely from the publicity of the location.
 - Rare but deadly (upper-left): Playground and dwelling shootings involving minors (<18) show up here, with low volume but alarmingly high fatality rates (50–60% for dwelling shootings of youth). These are low-frequency events, but when they happen to children, the outcomes are disproportionately lethal.
 - Rare and survivable (lower-left): A mix of age ranges and locations all fall into this quadrant. 
-<img width="1495" height="915" alt="Screenshot 2026-04-27 at 2 01 57 PM" src="https://github.com/user-attachments/assets/858d9aef-47c8-4b30-811e-fff7fccea03e" />
+<img width="1480" height="677" alt="Screenshot 2026-04-29 at 10 08 26 PM" src="https://github.com/user-attachments/assets/86db4a39-afcb-48c3-9c4b-f7ee2653ad91" />
+
 
 ### Lethality by Hour and Day
 The heatmap shows that weekend early-morning hours 3 AM weekend: 37 fatality count) and late evening 7 PM weekend: 25 are the most lethal time slots. Weekday afternoons 2 PM: 36, 4 PM: 42) carry high volume but comparatively moderate lethality per incident.
