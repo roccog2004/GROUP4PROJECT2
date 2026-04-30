@@ -62,9 +62,10 @@ Checks the day of week to classify records as "Weekend" or "Weekday."
 
 <img width="491" height="309" alt="Screenshot 2026-04-29 at 9 59 29 PM" src="https://github.com/user-attachments/assets/50423f0a-9268-4a3f-9b88-99be64b580ae" />
 
-### Fatality
+### Fatality Rate
 Proportion of incidents flagged as statistical murders out of total incidents.
-<img width="800" height="500" alt="Screenshot 2026-04-27 at 11 58 16 AM" src="https://github.com/user-attachments/assets/31a4f385-fd78-47c9-b7b8-779543a88014" />
+<img width="543" height="325" alt="Screenshot 2026-04-29 at 10 00 05 PM" src="https://github.com/user-attachments/assets/6df7c0ec-6525-475b-88fa-1c69f1aa589d" />
+
 
 ### Adult Pct
 Calculate each adult incident's share of total adult incidents at a given dimension level.
