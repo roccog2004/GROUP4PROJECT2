@@ -69,7 +69,8 @@ Proportion of incidents flagged as statistical murders out of total incidents.
 
 ### Adult Pct
 Calculate each adult incident's share of total adult incidents at a given dimension level.
-<img width="800" height="500" alt="Screenshot 2026-04-27 at 12 06 15 PM" src="https://github.com/user-attachments/assets/09a4fa24-9654-44db-9157-80133c438f38" />
+<img width="546" height="326" alt="Screenshot 2026-04-29 at 10 02 09 PM" src="https://github.com/user-attachments/assets/e57ad996-f339-4c6a-8ff4-ad317f423ddd" />
+
 
 ### Youth Pct
 Calculate each youth incident's share of the total number of youth incidents at a given dimension level.
