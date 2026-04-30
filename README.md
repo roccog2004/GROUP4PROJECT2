@@ -39,7 +39,8 @@ Why This Matters: It is important to understand when and where shootings are mos
   
 This classifies each victim into an age group. If the victim's age group is <18 or 18–24, it returns "Youth (Under 25)"; otherwise, it returns "Adult (25+)." Helped to narrow the age group variable further. 
 
-<img width="800" height="500" alt="Screenshot 2026-04-27 at 11 57 45 AM" src="https://github.com/user-attachments/assets/8db61882-ea09-410e-8a8b-daf6d3d42b29" />
+<img width="529" height="309" alt="Screenshot 2026-04-29 at 9 57 41 PM" src="https://github.com/user-attachments/assets/799ccd9c-4cf6-4236-8526-3f609f54bcfc" />
+
 
 ### Fatality Rate F (Filtered)
   
