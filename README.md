@@ -99,7 +99,8 @@ The weekday vs. weekend dumbbell chart shows that weekend youth shootings cluste
 During the school year on weekdays, youth shootings stay near zero during school hours (8 AM–2 PM) before a spike in shootings in the afternoon/evening, peaking around 10 PM (11.40%). While on the weekends, we still see this afternoon spike of around 9.52%, but shootings carry on throughout the night, spiking at 13.85% around 3 am. 
 
 In summer, the overnight spike shifts earlier, peaking around 9 PM at 14.17%, and the weekday night shootings are higher, reflecting the absence of curfews usually in place during the school year.
-<img width="1502" height="921" alt="Screenshot 2026-04-27 at 2 04 16 PM" src="https://github.com/user-attachments/assets/55f4fd70-de73-417a-a03a-fbef6eead58f" />
+<img width="1483" height="678" alt="Screenshot 2026-04-29 at 10 06 43 PM" src="https://github.com/user-attachments/assets/8bfc85c1-d51d-4eeb-b262-babe849dc36d" />
+
 
 ### Q2 How does shooting lethality vary by location type, borough, and time and where do high volume, high-fatality hotspots overlap?
 
