@@ -74,7 +74,8 @@ Calculate each adult incident's share of total adult incidents at a given dimens
 
 ### Youth Pct
 Calculate each youth incident's share of the total number of youth incidents at a given dimension level.
-<img width="800" height="500" alt="Screenshot 2026-04-27 at 12 06 33 PM" src="https://github.com/user-attachments/assets/e71be39e-ca5c-4c7a-8c9e-b326428a48f4" />
+<img width="542" height="326" alt="Screenshot 2026-04-29 at 10 02 51 PM" src="https://github.com/user-attachments/assets/edbb103d-62c0-465a-a756-ac90c0b0e635" />
+
 
 ### Risk Gap
 Difference between Youth Pct and Adult Pct in which positive values indicate disproportionate youth risk.
