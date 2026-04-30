@@ -110,7 +110,8 @@ The Bronx stands out with the highest fatality rate of 23 and the highest volume
 
 The Bronx is the clearest high-volume, high-fatality hotspot as it has both the most shootings and the deadliest outcomes, but Queens is interesting as it only has 86 shootings, making it second to last in incident amount, but also the second most deadly. 
 
-<img width="1499" height="906" alt="Screenshot 2026-04-27 at 2 02 58 PM" src="https://github.com/user-attachments/assets/58530991-e871-429f-81f6-3e912877a431" />
+<img width="1476" height="674" alt="Screenshot 2026-04-29 at 10 07 43 PM" src="https://github.com/user-attachments/assets/f62769f3-6608-407c-b993-ecc8d47be519" />
+
 
 ### Location Type
 The quadrant chart breaks locations into four main profiles:
