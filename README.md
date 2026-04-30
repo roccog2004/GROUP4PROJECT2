@@ -60,7 +60,7 @@ Uses the month of the occurrence date to label records as "Summer" (June–July)
   
 Checks the day of week to classify records as "Weekend" or "Weekday."
 
-<img width="800" height="500" alt="Screenshot 2026-04-27 at 12 05 47 PM" src="https://github.com/user-attachments/assets/c4a0f13b-c28e-4ccf-b42d-60f4799f1e2e" />
+<img width="491" height="309" alt="Screenshot 2026-04-29 at 9 59 29 PM" src="https://github.com/user-attachments/assets/50423f0a-9268-4a3f-9b88-99be64b580ae" />
 
 ### Fatality
 Proportion of incidents flagged as statistical murders out of total incidents.
