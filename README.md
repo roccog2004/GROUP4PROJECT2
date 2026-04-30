@@ -36,47 +36,47 @@ Why This Matters: It is important to understand when and where shootings are mos
   
 This classifies each victim into an age group. If the victim's age group is <18 or 18–24, it returns "Youth (Under 25)"; otherwise, it returns "Adult (25+)." Helped to narrow the age group variable further. 
 
-<img width="529" height="309" alt="Screenshot 2026-04-29 at 9 57 41 PM" src="https://github.com/user-attachments/assets/799ccd9c-4cf6-4236-8526-3f609f54bcfc" />
+<img width="500" height="300" alt="Screenshot 2026-04-29 at 9 57 41 PM" src="https://github.com/user-attachments/assets/799ccd9c-4cf6-4236-8526-3f609f54bcfc" />
 
 
 ### Fatality Rate F (Filtered)
   
 Only displays Fatality Rate when incident count ≥ 5, returning NULL otherwise to filter out unreliable small sample results.
 
-<img width="491" height="305" alt="Screenshot 2026-04-29 at 9 58 57 PM" src="https://github.com/user-attachments/assets/61c05816-3472-4905-8448-c9d0dd00eb1f" />
+<img width="500" height="300" alt="Screenshot 2026-04-29 at 9 58 57 PM" src="https://github.com/user-attachments/assets/61c05816-3472-4905-8448-c9d0dd00eb1f" />
 
 
 ### Season
   
 Uses the month of the occurrence date to label records as "Summer" (June–July) or "School Year."
 
-<img width="531" height="307" alt="Screenshot 2026-04-29 at 9 53 27 PM" src="https://github.com/user-attachments/assets/d789672b-377a-4268-97e5-617a31c29429" />
+<img width="500" height="300" alt="Screenshot 2026-04-29 at 9 53 27 PM" src="https://github.com/user-attachments/assets/d789672b-377a-4268-97e5-617a31c29429" />
 
 
 ### Weekend 
   
 Checks the day of week to classify records as "Weekend" or "Weekday."
 
-<img width="491" height="309" alt="Screenshot 2026-04-29 at 9 59 29 PM" src="https://github.com/user-attachments/assets/50423f0a-9268-4a3f-9b88-99be64b580ae" />
+<img width="500" height="300" alt="Screenshot 2026-04-29 at 9 59 29 PM" src="https://github.com/user-attachments/assets/50423f0a-9268-4a3f-9b88-99be64b580ae" />
 
 ### Fatality Rate
 Proportion of incidents flagged as statistical murders out of total incidents.
-<img width="543" height="325" alt="Screenshot 2026-04-29 at 10 00 05 PM" src="https://github.com/user-attachments/assets/6df7c0ec-6525-475b-88fa-1c69f1aa589d" />
+<img width="500" height="300" alt="Screenshot 2026-04-29 at 10 00 05 PM" src="https://github.com/user-attachments/assets/6df7c0ec-6525-475b-88fa-1c69f1aa589d" />
 
 
 ### Adult Pct
 Calculate each adult incident's share of total adult incidents at a given dimension level.
-<img width="546" height="326" alt="Screenshot 2026-04-29 at 10 02 09 PM" src="https://github.com/user-attachments/assets/e57ad996-f339-4c6a-8ff4-ad317f423ddd" />
+<img width="500" height="300" alt="Screenshot 2026-04-29 at 10 02 09 PM" src="https://github.com/user-attachments/assets/e57ad996-f339-4c6a-8ff4-ad317f423ddd" />
 
 
 ### Youth Pct
 Calculate each youth incident's share of the total number of youth incidents at a given dimension level.
-<img width="542" height="326" alt="Screenshot 2026-04-29 at 10 02 51 PM" src="https://github.com/user-attachments/assets/edbb103d-62c0-465a-a756-ac90c0b0e635" />
+<img width="500" height="300" alt="Screenshot 2026-04-29 at 10 02 51 PM" src="https://github.com/user-attachments/assets/edbb103d-62c0-465a-a756-ac90c0b0e635" />
 
 
 ### Risk Gap
 Difference between Youth Pct and Adult Pct in which positive values indicate disproportionate youth risk.
-<img width="543" height="327" alt="Screenshot 2026-04-29 at 10 03 31 PM" src="https://github.com/user-attachments/assets/33048fd5-7fd7-467f-bf72-decef6dc3e2e" />
+<img width="500" height="300" alt="Screenshot 2026-04-29 at 10 03 31 PM" src="https://github.com/user-attachments/assets/33048fd5-7fd7-467f-bf72-decef6dc3e2e" />
 
 ## Analysis and Results 
 
