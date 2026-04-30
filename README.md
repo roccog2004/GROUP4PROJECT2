@@ -10,20 +10,23 @@
  4. Kory Cote [@Korycote](https://github.com/Korycote/Hotel-MIST4610)
 
 ## Data Set
-Where was it obtained, what are the dimensions of it (rows and columns), what are the various columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would understand the dataset.  (Reduce what we have rn into bullet points of all the rows and columns) 
+Where was it obtained, what are the dimensions of it (rows and columns), what are the various
+columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
+understand the dataset.  (Reduce what we have rn into bullet points of all the rows and columns) 
 
-## Data Description 
 The dataset we selected is based on 2025 NYPD shooting incident records. We chose this dataset because of the wide range of insights that can be extracted from it. It provides valuable information not only for public safety officials looking to identify patterns and improve response strategies, but also for everyday individuals who want to better understand high-risk areas within New York City. In terms of data types, the dataset includes several dimensions that describe the incidents, such as borough, victim age group, victim race, and victim sex. These categorical variables help us categorize and better understand the context of each incident. On the other hand, the dataset also contains measures, such as latitude and longitude, which allow us to quantitatively map and analyze where incidents are occurring. While there are many discrete categories we could have explored, we chose to focus on visualizing patterns related to time of day, as well as grouping variables like age and victim demographics. This approach allows us to better identify trends and potential correlations within the data.
 
 ## Questions 
-What are the questions, and why each question is important. Importance can be evaluated and conveyed in a variety of ways including, social, economic, cultural and other factors. Also indicate how they are tied to the data set or sets being used.
+What are the questions, and why each question is important. Importance can be evaluated and
+conveyed in a variety of ways including, social, economic, cultural and other factors. Also
+indicate how they are tied to the data set or sets being used. (Add the why) 
 
 Q1 How do youth shooting victimization patterns differ from adult patterns across time of day, day of week, and school calendar period?  
 
+This question is important as it provides valuable information pertaining to the social impact shootings can unfortunately have on society. During certain times of the day youths are at greater risk than adults, and vice versa. Assesing this question can also help link when youths are put in potential danger during the school year and summer. 
 
 Q2 How does shooting lethality vary by location type, borough, and time and where do high volume, high-fatality hotspots overlap?
 
-Why This Matters: It is important to understand when and where shootings are most deadly and when they have direct implications on public safety resource allocation, emergency medical response positioning, and targeted intervention programs.A shooting occurring in one are can have many different survival odds than those in other areas. Some factors that are important to consider are witness presence, EMS response time, and concealment. Being able to identify hotspots where shooting volume and fatality rates overlap allow for police and policymakers to enforce more laws and resoruces to reduce fatality. 
 
 ## Manipulations 
 - Replaced null values across all perpetrator and victim variables with "UNKNOWN" by changing the alias of the "NULL" variable 
@@ -35,14 +38,13 @@ Why This Matters: It is important to understand when and where shootings are mos
   
 This classifies each victim into an age group. If the victim's age group is <18 or 18–24, it returns "Youth (Under 25)"; otherwise, it returns "Adult (25+)." Helped to narrow the age group variable further. 
 
-<img width="528" height="305" alt="Screenshot 2026-04-29 at 9 37 05 PM" src="https://github.com/user-attachments/assets/50953255-6f27-4e04-94b8-85991984062a" />
+<img width="800" height="500" alt="Screenshot 2026-04-27 at 11 57 45 AM" src="https://github.com/user-attachments/assets/8db61882-ea09-410e-8a8b-daf6d3d42b29" />
 
 ### Fatality Rate F (Filtered)
   
 Only displays Fatality Rate when incident count ≥ 5, returning NULL otherwise to filter out unreliable small sample results.
 
-<img width="527" height="306" alt="Screenshot 2026-04-29 at 9 52 55 PM" src="https://github.com/user-attachments/assets/7b0f26ba-64ce-449a-a51e-405dd6c3f7eb" />
-
+<img width="800" height="500" alt="Screenshot 2026-04-27 at 12 25 29 PM" src="https://github.com/user-attachments/assets/8205f2fa-be2d-4c3e-9515-b603564b9ecc" />
 
 ### Season
   
