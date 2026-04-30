@@ -4,10 +4,10 @@
 21479 Group 4
 
 ## Team Members 
- 1. Raines Harvard [@RainesHarvard237](https://github.com/RainesHarvard237/Raines-Harvard-Group-4-MIST-Project-1-Hotel)
- 2. Grace Klatt [@gracecklatt](https://github.com/gracecklatt/MIST-4610-Hotel/blob/main/README.md)
- 3. Rocco Garcia [@roccog2024](https://github.com/roccog2004/Group4Project)
- 4. Kory Cote [@Korycote](https://github.com/Korycote/Hotel-MIST4610)
+ 1. Raines Harvard [@RainesHarvard237](https://github.com/RainesHarvard237)
+ 2. Grace Klatt [@gracecklatt](https://github.com/gracecklatt)
+ 3. Rocco Garcia [@roccog2024](https://github.com/roccog2004)
+ 4. Kory Cote [@Korycote](https://github.com)
 
 ## Data Set
 Where was it obtained, what are the dimensions of it (rows and columns), what are the various
