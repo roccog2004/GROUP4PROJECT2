@@ -123,5 +123,6 @@ The quadrant chart breaks locations into four main profiles:
 ### Lethality by Hour and Day
 The heatmap shows that weekend early-morning hours 3 AM weekend: 37 fatality count) and late evening 7 PM weekend: 25 are the most lethal time slots. Weekday afternoons 2 PM: 36, 4 PM: 42) carry high volume but comparatively moderate lethality per incident.
 
-<img width="1501" height="911" alt="Screenshot 2026-04-27 at 2 01 13 PM" src="https://github.com/user-attachments/assets/f34e4373-7536-4b50-92f8-d8dbdf0b3d90" />
+<img width="1473" height="674" alt="Screenshot 2026-04-29 at 10 09 44 PM" src="https://github.com/user-attachments/assets/a9e2acbb-a281-4e78-9f38-33e1d11d8be0" />
+
 
