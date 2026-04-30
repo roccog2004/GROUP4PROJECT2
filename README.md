@@ -25,6 +25,7 @@ Q1 How do youth shooting victimization patterns differ from adult patterns acros
 
 
 Q2 How does shooting lethality vary by location type, borough, and time and where do high volume, high-fatality hotspots overlap?
+
 Why This Matters: It is important to understand when and where shootings are most deadly and when they have direct implications on public safety resource allocation, emergency medical response positioning, and targeted intervention programs.A shooting occurring in one are can have many different survival odds than those in other areas. Some factors that are important to consider are witness presence, EMS response time, and concealment. Being able to identify hotspots where shooting volume and fatality rates overlap allow for police and policymakers to enforce more laws and resoruces to reduce fatality. 
 
 ## Manipulations 
