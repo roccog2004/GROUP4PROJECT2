@@ -87,7 +87,7 @@ Difference between Youth Pct and Adult Pct in which positive values indicate dis
 
 ### Time of Day
 The Risk Gap chart reveals that youth are underrepresented in overnight and early-morning shootings. The gap dips to −4.57% at 1 AM and stays negative till 11 AM. Starting around noon, the pattern flips, and youth become overrepresented, peaking at +3.97% around 4 PM. There's a secondary spike near 10 PM (+2.91%).
-<img width="1501" height="918" alt="Screenshot 2026-04-27 at 2 05 13 PM" src="https://github.com/user-attachments/assets/7d9621d9-764b-4e81-b2dd-fbe2d433239b" />
+<img width="1479" height="674" alt="Screenshot 2026-04-29 at 10 04 57 PM" src="https://github.com/user-attachments/assets/7b1f28d4-3a92-4ebf-8e33-b4b03797ebad" />
 
 The implication is that youth victims are disproportionately shot during afternoon and early-evening hours, times that align with school dismissal, after-school idle time, and outdoor activity; rather than the late-night hours that dominate adult victimization.
 
