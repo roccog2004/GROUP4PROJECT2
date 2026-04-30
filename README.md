@@ -79,7 +79,7 @@ Calculate each youth incident's share of the total number of youth incidents at 
 
 ### Risk Gap
 Difference between Youth Pct and Adult Pct in which positive values indicate disproportionate youth risk.
-<img width="800" height="500" alt="Screenshot 2026-04-27 at 12 06 52 PM" src="https://github.com/user-attachments/assets/c796fc74-2e52-42c2-b795-04aa8a361175" />
+<img width="543" height="327" alt="Screenshot 2026-04-29 at 10 03 31 PM" src="https://github.com/user-attachments/assets/33048fd5-7fd7-467f-bf72-decef6dc3e2e" />
 
 ## Analysis and Results 
 
