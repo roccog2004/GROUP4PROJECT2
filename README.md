@@ -48,7 +48,8 @@ Only displays Fatality Rate when incident count ≥ 5, returning NULL otherwise 
   
 Uses the month of the occurrence date to label records as "Summer" (June–July) or "School Year."
 
-<img width="800" height="500" alt="Screenshot 2026-04-27 at 11 58 03 AM" src="https://github.com/user-attachments/assets/45bf357e-9863-4d44-a464-edb37a64cd1d" />
+<img width="531" height="307" alt="Screenshot 2026-04-29 at 9 53 27 PM" src="https://github.com/user-attachments/assets/d789672b-377a-4268-97e5-617a31c29429" />
+
 
 ### Weekend 
   
