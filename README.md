@@ -93,7 +93,7 @@ The implication is that youth victims are disproportionately shot during afterno
 
 ### Day of Week
 The weekday vs. weekend dumbbell chart shows that weekend youth shootings cluster more heavily in the late-night and early morning hours. The brown dots for weekdays tend to sit lower than the blue weekend dots at hours like 12 AM–3 AM, while afternoon hours are more evenly split. Weekend nights appear to carry elevated youth risk in the 10 PM–12 AM window, with some hours reaching above 5%.
-<img width="1499" height="910" alt="Screenshot 2026-04-27 at 2 04 37 PM" src="https://github.com/user-attachments/assets/ad581804-cbfe-4713-a3e8-daa34cd57a23" />
+<img width="1480" height="675" alt="Screenshot 2026-04-29 at 10 05 54 PM" src="https://github.com/user-attachments/assets/b654f5a0-3d7a-47e7-9f8c-a5b750a44614" />
 
 ### School Calender Period 
 During the school year on weekdays, youth shootings stay near zero during school hours (8 AM–2 PM) before a spike in shootings in the afternoon/evening, peaking around 10 PM (11.40%). While on the weekends, we still see this afternoon spike of around 9.52%, but shootings carry on throughout the night, spiking at 13.85% around 3 am. 
