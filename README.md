@@ -23,7 +23,9 @@ indicate how they are tied to the data set or sets being used. (Add the why)
 
 Q1 How do youth shooting victimization patterns differ from adult patterns across time of day, day of week, and school calendar period?  
 
+
 Q2 How does shooting lethality vary by location type, borough, and time and where do high volume, high-fatality hotspots overlap?
+Why This Matters: It is important to understand when and where shootings are most deadly and when they have direct implications on public safety resource allocation, emergency medical response positioning, and targeted intervention programs.A shooting occurring in one are can have many different survival odds than those in other areas. Some factors that are important to consider are witness presence, EMS response time, and concealment. Being able to identify hotspots where shooting volume and fatality rates overlap allow for police and policymakers to enforce more laws and resoruces to reduce fatality. 
 
 ## Manipulations 
 - Replaced null values across all perpetrator and victim variables with "UNKNOWN" by changing the alias of the "NULL" variable 
