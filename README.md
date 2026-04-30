@@ -10,11 +10,8 @@
  4. Kory Cote [@Korycote](https://github.com)
 
 ## Data Set
-Where was it obtained, what are the dimensions of it (rows and columns), what are the various
-columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
-understand the dataset.  (Reduce what we have rn into bullet points of all the rows and columns) 
+<img width="656" height="480" alt="Screenshot 2026-04-29 at 10 02 21 PM" src="https://github.com/user-attachments/assets/1c5a0463-6df9-4bf3-ba3b-5b4e5ea8acff" />
 
-The dataset we selected is based on 2025 NYPD shooting incident records. We chose this dataset because of the wide range of insights that can be extracted from it. It provides valuable information not only for public safety officials looking to identify patterns and improve response strategies, but also for everyday individuals who want to better understand high-risk areas within New York City. In terms of data types, the dataset includes several dimensions that describe the incidents, such as borough, victim age group, victim race, and victim sex. These categorical variables help us categorize and better understand the context of each incident. On the other hand, the dataset also contains measures, such as latitude and longitude, which allow us to quantitatively map and analyze where incidents are occurring. While there are many discrete categories we could have explored, we chose to focus on visualizing patterns related to time of day, as well as grouping variables like age and victim demographics. This approach allows us to better identify trends and potential correlations within the data.
 
 ## Questions 
 What are the questions, and why each question is important. Importance can be evaluated and
