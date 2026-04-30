@@ -41,7 +41,8 @@ This classifies each victim into an age group. If the victim's age group is <18 
   
 Only displays Fatality Rate when incident count ≥ 5, returning NULL otherwise to filter out unreliable small sample results.
 
-<img width="800" height="500" alt="Screenshot 2026-04-27 at 12 25 29 PM" src="https://github.com/user-attachments/assets/8205f2fa-be2d-4c3e-9515-b603564b9ecc" />
+<img width="527" height="306" alt="Screenshot 2026-04-29 at 9 52 55 PM" src="https://github.com/user-attachments/assets/7b0f26ba-64ce-449a-a51e-405dd6c3f7eb" />
+
 
 ### Season
   
